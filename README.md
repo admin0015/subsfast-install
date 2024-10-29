@@ -1,7 +1,7 @@
 # SubsFast
 
-Latest version: v1.3.3
+Latest version: v1.3.4
 
 ## Downloads
 
-[v1.3.3](https://github.com/admin0015/subsfast-install/releases/tag/v1.3.3)
+[v1.3.4](https://github.com/admin0015/subsfast-install/releases/tag/v1.3.4)
